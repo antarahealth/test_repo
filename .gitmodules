@@ -1,0 +1,3 @@
+[submodule "automated-sprint-boards"]
+	path = automated-sprint-boards
+	url = ../automated-sprint-boards
